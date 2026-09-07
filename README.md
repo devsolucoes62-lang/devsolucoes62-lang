@@ -6,71 +6,53 @@
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=180&section=header&text=DEV%20SOLUÇÕES&fontSize=42&fontColor=ffffff&fontAlignY=38&desc=Technology%20%7C%20AI%20%7C%20Data%20%7C%20Innovation&descAlignY=62&descSize=17&color=0:bae6fd,50:7dd3fc,100:38bdf8"/>
-
-</div>
-
-<!-- ========================================================= -->
-
-<!--                        HERO                               -->
-
-<!-- ========================================================= -->
-
-<table width="100%">
-<tr>
-
-<td width="60%" valign="middle">
-
-# 👋 Olá, eu sou **DEV SOLUÇÕES**
-
-### 💻 Full Stack Developer
-
-### 📱 Flutter Developer
-
-### 🤖 AI & Automation
-
-### 📊 Data Analytics
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=150&section=header&color=0:bae6fd,50:7dd3fc,100:38bdf8"/>
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&duration=2800&pause=700&color=0284C7&center=false&vCenter=true&width=600&lines=Building+Digital+Solutions+%F0%9F%9A%80;Turning+Ideas+Into+Technology+%E2%9A%A1;Code+%E2%80%A2+AI+%E2%80%A2+Data+%E2%80%A2+Innovation;Angola+%E2%86%92+World+%F0%9F%8C%8D"/>
+<!-- ========================================================= -->
 
-<br><br>
+<!--                    DEVELOPER IMAGE                        -->
 
-<img src="https://komarev.com/ghpvc/?username=devsolucoes62-lang&label=PROFILE%20VIEWS&color=38bdf8&style=for-the-badge"/>
-
-</td>
-
-<td width="40%" align="center">
+<!-- ========================================================= -->
 
 <img
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
-width="380"
+width="300"
 alt="Developer coding"
 />
 
-</td>
+<br>
 
-</tr>
-</table>
+# ⚡ DEV SOLUÇÕES
+
+### Full Stack Developer • AI • Data • Automation
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=15&duration=2800&pause=700&color=0284C7&center=true&vCenter=true&width=500&lines=Building+Digital+Solutions+%F0%9F%9A%80;Code+%E2%80%A2+AI+%E2%80%A2+Data+%E2%80%A2+Innovation;Turning+Ideas+Into+Technology+%E2%9A%A1;Angola+%E2%86%92+World+%F0%9F%8C%8D"/>
 
 <br>
 
+<img src="https://komarev.com/ghpvc/?username=devsolucoes62-lang&label=PROFILE%20VIEWS&color=38bdf8&style=for-the-badge"/>
+
+</div>
+
+<br>
+
+<!-- ========================================================= -->
+
+<!--                        INTRO                              -->
+
+<!-- ========================================================= -->
+
 <div align="center">
 
-### 🩵 `CODE`   •   `CREATE`   •   `AUTOMATE`   •   `ANALYZE`   •   `INNOVATE`
+`💻 DEVELOP`   `🤖 AUTOMATE`   `📊 ANALYZE`   `🚀 INNOVATE`
 
 </div>
 
 <br>
 
 ---
-
-<!-- ========================================================= -->
-
-<!--                    ABOUT ME                               -->
-
-<!-- ========================================================= -->
 
 <div align="center">
 
@@ -85,28 +67,28 @@ alt="Developer coding"
 
 ### 🚀 What I Do
 
-* 💻 Full Stack Web Development
+* 💻 Full Stack Development
 * 📱 Mobile Applications
 * 🤖 Artificial Intelligence
-* 🔌 API Development & Integration
-* ⚙️ Process Automation
-* 📊 Data Analysis & Business Intelligence
-* 🗄️ Database Architecture
-* ☁️ Digital Solutions
+* 🔌 REST APIs & Integrations
+* ⚙️ Automation
+* 📊 Data Analytics
+* 🗄️ Database Systems
+* ☁️ Digital Platforms
 
 </td>
 
 <td width="50%" valign="top">
 
-### 🌍 My Vision
+### 🌍 Vision
 
-> Transform ideas into practical digital solutions capable of solving real problems.
+Building technology that transforms ideas into practical digital solutions.
 
 <br>
 
-**Focus:**
+**Focus**
 
-`Technology` • `Innovation` • `AI` • `Data`
+`Technology` • `AI` • `Data` • `Innovation`
 
 <br>
 
@@ -121,15 +103,13 @@ alt="Developer coding"
 
 <!-- ========================================================= -->
 
-<!--                    TECH STACK                              -->
+<!--                      TECH STACK                           -->
 
 <!-- ========================================================= -->
 
 <div align="center">
 
 ## 🧩 TECH STACK
-
-<br>
 
 ### 🎨 FRONTEND
 
@@ -149,13 +129,13 @@ alt="Developer coding"
 
 <br><br>
 
-### 🗄️ DATABASE & SERVICES
+### 🗄️ DATABASE
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,supabase,firebase&theme=light"/>
 
 <br><br>
 
-### 🛠️ DEVELOPMENT TOOLS
+### 🛠️ TOOLS
 
 <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,figma,postman&theme=light"/>
 
@@ -165,7 +145,7 @@ alt="Developer coding"
 
 <!-- ========================================================= -->
 
-<!--                 AI & AUTOMATION                            -->
+<!--                  AI & AUTOMATION                          -->
 
 <!-- ========================================================= -->
 
@@ -175,14 +155,14 @@ alt="Developer coding"
 
 <br>
 
-<img src="https://img.shields.io/badge/Artificial%20Intelligence-0284C7?style=for-the-badge&logo=openai&logoColor=white"/>
+<img src="https://img.shields.io/badge/AI-0284C7?style=for-the-badge&logo=openai&logoColor=white"/>
 <img src="https://img.shields.io/badge/REST%20API-0EA5E9?style=for-the-badge&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Automation-38BDF8?style=for-the-badge&logo=robotframework&logoColor=white"/>
+<img src="https://img.shields.io/badge/AUTOMATION-38BDF8?style=for-the-badge&logo=robotframework&logoColor=white"/>
 <img src="https://img.shields.io/badge/JSON-0369A1?style=for-the-badge&logo=json&logoColor=white"/>
 
 <br><br>
 
-`AI Agents`   •   `AI APIs`   •   `REST APIs`   •   `Automation`   •   `Integrations`
+`AI Agents` • `AI APIs` • `REST APIs` • `Automation` • `Integrations`
 
 </div>
 
@@ -190,7 +170,7 @@ alt="Developer coding"
 
 <!-- ========================================================= -->
 
-<!--                 DATA ANALYTICS                             -->
+<!--                    DATA                                   -->
 
 <!-- ========================================================= -->
 
@@ -203,31 +183,23 @@ alt="Developer coding"
 <table width="100%">
 <tr>
 
-<td align="center" width="50%">
+<td align="center">
 
-<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="75"/>
+<img src="https://img.icons8.com/color/96/microsoft-excel-2019.png" width="60"/>
 
-### 📗 Excel Avançado
+### Excel
 
-`Power Query`
-
-`Data Analysis`
-
-`Reports`
+`Power Query` • `Analysis` • `Reports`
 
 </td>
 
-<td align="center" width="50%">
+<td align="center">
 
-<img src="https://img.icons8.com/color/96/power-bi.png" width="75"/>
+<img src="https://img.icons8.com/color/96/power-bi.png" width="60"/>
 
-### 📊 Power BI
+### Power BI
 
-`DAX`
-
-`Dashboards`
-
-`KPIs`
+`DAX` • `Dashboards` • `KPIs`
 
 </td>
 
@@ -240,7 +212,7 @@ alt="Developer coding"
 
 <!-- ========================================================= -->
 
-<!--                 GITHUB ANALYTICS                           -->
+<!--                  GITHUB ANALYTICS                         -->
 
 <!-- ========================================================= -->
 
@@ -250,35 +222,32 @@ alt="Developer coding"
 
 <br>
 
-<table>
-<tr>
-
-<td>
+<!-- MAIN STATS -->
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=devsolucoes62-lang&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&title_color=0284C7&icon_color=0EA5E9&text_color=334155&bg_color=FFFFFF"
-height="180"
+src="https://github-readme-stats.vercel.app/api?username=devsolucoes62-lang&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&border_radius=18&title_color=0284C7&icon_color=0EA5E9&text_color=334155&bg_color=FFFFFF"
+width="90%"
+alt="GitHub Statistics"
 />
 
-</td>
+<br><br>
 
-<td>
+<!-- TOP LANGUAGES -->
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsolucoes62-lang&layout=compact&langs_count=8&hide_border=true&title_color=0284C7&text_color=334155&bg_color=FFFFFF"
-height="180"
+src="https://github-readme-stats.vercel.app/api/top-langs/?username=devsolucoes62-lang&layout=compact&langs_count=8&hide_border=true&border_radius=18&title_color=0284C7&text_color=334155&bg_color=FFFFFF"
+width="75%"
+alt="Top Languages"
 />
 
-</td>
+<br><br>
 
-</tr>
-</table>
-
-<br>
+<!-- STREAK -->
 
 <img
-src="https://streak-stats.demolab.com?user=devsolucoes62-lang&hide_border=true&background=FFFFFF&stroke=BAE6FD&ring=0EA5E9&fire=0284C7&currStreakLabel=0284C7&sideLabels=0284C7&dates=64748B&currStreakNum=0284C7&sideNums=0284C7"
-width="70%"
+src="https://streak-stats.demolab.com?user=devsolucoes62-lang&hide_border=true&border_radius=18&background=FFFFFF&stroke=BAE6FD&ring=0EA5E9&fire=0284C7&currStreakLabel=0284C7&sideLabels=0284C7&dates=64748B&currStreakNum=0284C7&sideNums=0284C7"
+width="90%"
+alt="GitHub Streak"
 />
 
 </div>
@@ -287,7 +256,7 @@ width="70%"
 
 <!-- ========================================================= -->
 
-<!--                    CONTRIBUTIONS                           -->
+<!--                 CONTRIBUTIONS                             -->
 
 <!-- ========================================================= -->
 
@@ -305,9 +274,9 @@ alt="GitHub Contribution Snake"
 
 <br><br>
 
-### 🩵 Every contribution builds something bigger.
+### 🩵 CONTRIBUTING • BUILDING • IMPROVING
 
-`LEARN`   →   `BUILD`   →   `IMPROVE`   →   `INNOVATE`
+`LEARN` → `BUILD` → `IMPROVE` → `INNOVATE`
 
 </div>
 
@@ -325,41 +294,21 @@ alt="GitHub Contribution Snake"
 
 <br>
 
-<table width="100%">
-<tr>
-
-<td align="center">
-
-### 🤖
-
-**Artificial Intelligence**
+### 🤖 Artificial Intelligence
 
 AI Agents • AI APIs • Intelligent Systems
 
-</td>
+<br>
 
-<td align="center">
-
-### 🌐
-
-**Digital Platforms**
+### 🌐 Digital Platforms
 
 Web • APIs • Cloud • SaaS
 
-</td>
+<br>
 
-<td align="center">
+### 📊 Data Intelligence
 
-### 📊
-
-**Data Intelligence**
-
-Analytics • Dashboards • BI
-
-</td>
-
-</tr>
-</table>
+Analytics • Dashboards • Business Intelligence
 
 </div>
 
@@ -367,7 +316,7 @@ Analytics • Dashboards • BI
 
 <!-- ========================================================= -->
 
-<!--                       PROJECTS                             -->
+<!--                      VISION                               -->
 
 <!-- ========================================================= -->
 
@@ -381,15 +330,15 @@ Analytics • Dashboards • BI
 
 <br>
 
-**Digital Solutions designed to solve real-world problems.**
+Digital solutions designed to solve real-world problems.
 
-<br>
+<br><br>
 
-🇦🇴 **ANGOLA**   →   🌍 **GLOBAL TECHNOLOGY**
+🇦🇴 **ANGOLA**   →   🌍 **GLOBAL TECHNOLOGY**
 
 </div>
 
----
+<br>
 
 <!-- ========================================================= -->
 
@@ -398,8 +347,6 @@ Analytics • Dashboards • BI
 <!-- ========================================================= -->
 
 <div align="center">
-
-<br>
 
 <a href="https://github.com/devsolucoes62-lang">
 
@@ -423,6 +370,6 @@ Analytics • Dashboards • BI
 
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=footer&color=0:38bdf8,50:7dd3fc,100:bae6fd"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:38bdf8,50:7dd3fc,100:bae6fd"/>
 
 </div>
