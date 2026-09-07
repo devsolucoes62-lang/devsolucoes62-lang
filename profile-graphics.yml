@@ -1,0 +1,102 @@
+name: Profile Graphics
+
+on:
+  push:
+    branches: [main]
+
+  schedule:
+    - cron: "17 3 * * *"
+
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+
+    runs-on: ubuntu-latest
+
+    timeout-minutes: 20
+
+    steps:
+
+      - name: Checkout profile repository
+        uses: actions/checkout@v4
+
+      - name: Generate GitHub statistics
+        uses: lowlighter/metrics@latest
+
+        with:
+          filename: dist/github-statistics.svg
+          token: ${{ github.token }}
+          user: devsolucoes62-lang
+
+          base: header,activity,community,repositories,metadata
+
+          config_display: large
+          config_padding: 12
+
+          output_action: none
+
+          plugins_errors_fatal: no
+
+      - name: Generate top languages
+        uses: lowlighter/metrics@latest
+
+        with:
+          filename: dist/top-languages.svg
+
+          token: ${{ github.token }}
+
+          user: devsolucoes62-lang
+
+          base: ""
+
+          plugin_languages: yes
+
+          plugin_languages_limit: 8
+
+          plugin_languages_threshold: 0
+
+          plugin_languages_details: bytes-size,percentage
+
+          plugin_languages_sections: most-used
+
+          plugin_languages_other: yes
+
+          config_padding: 12
+
+          output_action: none
+
+          plugins_errors_fatal: no
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+
+        with:
+
+          github_user_name: devsolucoes62-lang
+
+          outputs: |
+
+            dist/github-contribution-grid-snake.svg?color_snake=#0284c7&color_dots=#e0f2fe,#bae6fd,#7dd3fc,#38bdf8,#0284c7
+
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark&color_snake=#7dd3fc
+
+      - name: Publish generated graphics to output branch
+        uses: crazy-max/ghaction-github-pages@v5
+
+        with:
+
+          target_branch: output
+
+          build_dir: dist
+
+          keep_history: true
+
+          commit_message: "chore: refresh profile graphics"
+
+        env:
+
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
